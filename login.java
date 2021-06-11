@@ -4,10 +4,6 @@ public class login
 	publicstatic
 	{
 		a=400
-	
 	}
-
-
-
-	}
+}
 
