@@ -3,7 +3,7 @@ public class login
 {
 	publicstatic
 	{
-		a=700
+		a=900
 	}
 }
    
